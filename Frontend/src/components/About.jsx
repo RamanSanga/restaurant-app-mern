@@ -21,7 +21,7 @@ const About = () => {
               Whether you’re here for a casual meal or a fine dining evening,
               we promise an experience that delights every sense.
             </p>
-            <Link to={"/"}>
+            <Link to={"/menu"}>
               Explore Menu{" "}
               <span>
                 <HiOutlineArrowRight />
